@@ -22,18 +22,22 @@ body {
 	font: normal 13px/1.6em  verdana, tahoma, sans-serif;
 	text-align: center;
 	background: #090807 url(../images/bg.jpg) repeat-x;
-	color: #8F8F8E;
+	color: #FFF;
 }
 
 /* links */
 a {
-	color: #fff;
+	color: #84A5DA;
 	background-color: inherit;
 	text-decoration: none;
 }
 a:hover {
-	color: #99CC33;
+	color: #EE4000;
 	background-color: inherit;
+}
+
+a:visited {
+color: none;
 }
 
 /* headers */
