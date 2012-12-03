@@ -216,7 +216,7 @@ input.form-submit {
 	clear: both;
 	position: relative;
 	margin: 0 auto; padding: 0;
-	background: transparent url(../images/header-image.jpg) no-repeat right top;
+	background: transparent url(../images/header.jpg) no-repeat right -4px;
 	height: 419px;
 	text-align: left;
 }

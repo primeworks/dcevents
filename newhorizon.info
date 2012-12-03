@@ -8,6 +8,7 @@ core = "6.x"
 
 regions[left] = Left Sidebar
 regions[right] = Right Sidebar
+regions[header_slide] = Header Slideshow
 regions[content_top] = Content Top
 regions[content_bottom] = Content Bottom
 regions[footer_block] = Footer
@@ -23,6 +24,8 @@ features[] = primary_links
 stylesheets[all][] = css/default.css
 stylesheets[all][] = css/pretty.css
 stylesheets[print][] = css/print.css
+
+scripts[] = js/change.js
 
 settings[starkish_block_editing]        = 1
 settings[starkish_rebuild_registry]     = 0

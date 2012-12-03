@@ -130,6 +130,10 @@
       <?php echo $site_slogan; ?>
     <?php endif; ?>
 
+		 <?php if ($header_slide): ?>
+        <?php echo $header_slide; ?>
+      <?php endif; ?>
+
   </div>
 
   <div id="content-wrap"><div id="content">
